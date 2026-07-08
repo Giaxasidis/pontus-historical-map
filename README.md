@@ -40,7 +40,7 @@ This project presents an interactive historical map of Pontus, featuring seven m
 
 ```bash
 # Clone repository
-git clone https://github.com/kaloudasdev/pontus-historical-map.git
+git clone https://github.com/Giaxasidis/pontus-historical-map.git
 
 # Navigate to project
 cd pontus-historical-map
